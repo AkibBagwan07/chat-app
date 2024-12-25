@@ -1,0 +1,20 @@
+body {
+  background-color: #f5f6fa;  /* Light background color */
+  font-family: 'Roboto', sans-serif;  /* Clean and modern font */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  display: flex;
+}
+
+.contactList{
+  width: 30%;
+  border-right: 1px solid #ddd 
+}
+
+.chatWindow{
+  width: 70%
+}
